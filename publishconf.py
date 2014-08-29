@@ -22,7 +22,3 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
-
-ARTICLE_URL = 'archive/{date:%Y}/{date:%m}/{slug}.html'
-ARTICLE_SAVE_AS = 'archive/{date:%Y}/{date:%m}/{slug}.html'
-THEME = "pelican-bootstrap3"
