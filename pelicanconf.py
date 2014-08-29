@@ -40,3 +40,6 @@ DEFAULT_PAGINATION = 10
 ARTICLE_URL = 'archive/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = 'archive/{date:%Y}/{date:%m}/{slug}.html'
 THEME = "pelican-bootstrap3"
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
