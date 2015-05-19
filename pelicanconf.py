@@ -25,7 +25,7 @@ TRANSLATION_FEED_ATOM = None
 LINKS = (('ICANUX', 'http://icanux.org'),
 	 ('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'))
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIAL = (('Github', 'http://github.com/icanux'),
